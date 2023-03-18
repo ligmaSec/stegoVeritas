@@ -22,7 +22,7 @@ def main():
     elif dist_name == 'fedora':
         fedora()
 
-    elif dist_name in ['archlinux', 'arch', 'arch linux', 'manjaro', 'manjaro linux']:
+    elif dist_name in ['archlinux', 'arch', 'arch linux', 'manjaro', 'manjaro linux', 'endeavouros']:
         archlinux()
 
     elif dist_name == 'parrot gnu/linux':
